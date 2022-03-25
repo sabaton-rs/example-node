@@ -5,6 +5,7 @@ edition = "2021"
 rust-version = "1.58"
 description = "A short description of this package"
 documentation = "Path to Documentation"
+authors = [""]
 #license = "MIT OR Apache-2.0"
 #license-file = "LICENSE.TXT"
 publish = false
